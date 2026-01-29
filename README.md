@@ -25,6 +25,9 @@ This project performs basic arithmetic operations such as addition, subtraction,
 
 python calculator.py
 
+## Imporvements
+1. Add Try except statement for smooth calculation
+
 ## Author
 
 Nakul Kumar
