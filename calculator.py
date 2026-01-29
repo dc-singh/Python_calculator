@@ -1,3 +1,5 @@
+# As I'm learning the python i'll make changes each by each 
+
 while True:
     try:
         num_1 = int(input("Enter the first num: "))
